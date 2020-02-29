@@ -1,0 +1,5 @@
+C:\Users\elamir\Desktop\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\elamir\Desktop\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\elamir\Desktop\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+C:\Users\elamir\Desktop\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\elamir\Desktop\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
