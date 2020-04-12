@@ -5,3 +5,10 @@ C:\Users\elamir\Desktop\startupcode\SecurityPackageTest\bin\Debug\SecurityLibrar
 C:\Users\elamir\Desktop\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
 C:\Users\elamir\Desktop\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 C:\Users\elamir\Desktop\startupcode\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+C:\Users\elamir\Desktop\Security-Task1\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\elamir\Desktop\Security-Task1\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\elamir\Desktop\Security-Task1\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\elamir\Desktop\Security-Task1\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\elamir\Desktop\Security-Task1\SecurityPackageTest\obj\Debug\SecurityPackageTest.csprojResolveAssemblyReference.cache
+C:\Users\elamir\Desktop\Security-Task1\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\elamir\Desktop\Security-Task1\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
